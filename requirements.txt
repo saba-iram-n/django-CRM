@@ -3,7 +3,10 @@ certifi==2023.11.17
 charset-normalizer==3.4.0
 distlib==0.3.9
 Django==5.1.6
+psycopg2-binary==2.9.10
+python-dotenv==1.0.1
 gunicorn==23.0.0
+whitenoise==6.8.2
 filelock==3.17.0
 idna==3.10
 mysql-connector-python==9.2.0
